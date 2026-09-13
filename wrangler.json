@@ -22,8 +22,7 @@
   "r2_buckets": [
     {
       "binding": "SNAPSHOTS",
-      "bucket_name": "site-state-viewer-snapshots",
-      "bucket_id": "123456789"
+      "bucket_name": "snapshots"
     }
   ]
 }
