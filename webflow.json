@@ -1,0 +1,13 @@
+{
+  "cloud": {
+    "framework": "nextjs",
+    "workspace_id": "6679d72fd960b2d32c5a82c5"
+  },
+  "telemetry": {
+    "global": {
+      "allowTelemetry": true,
+      "lastPrompted": 1789238789810,
+      "version": "2.0.0"
+    }
+  }
+}
