@@ -15,8 +15,8 @@
     {
       "binding": "DB",
       "database_name": "site-state-viewer-db",
-      "database_id": "local-dev-placeholder",
-      "migrations_dir": "migrations"
+      "database_id": "123456789",
+      "migrations_dir": "./migrations"
     }
   ],
   "r2_buckets": [
